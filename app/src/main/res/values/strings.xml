@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XMLUebungen</string>
+
+    <string name="test">Test</string>
+    <string name="begruessung">Moin moin !!!</string>
+    <string name="anmeldung_text">Anmelden hier bitte</string>
+
+
+</resources>
